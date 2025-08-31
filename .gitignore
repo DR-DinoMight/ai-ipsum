@@ -5,3 +5,5 @@
 .phpunit.result.cache
 /*.phar
 .env
+./builds
+.DS_Store
