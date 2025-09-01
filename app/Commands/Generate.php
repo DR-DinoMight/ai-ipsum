@@ -14,7 +14,7 @@ class Generate extends Command
      *
      * @var string
      */
-    protected $signature = 'generate:text {subject}
+    protected $signature = 'generate {subject}
                             {--model=gpt-4o-mini}
                             {--sentences=false}
                             {--paragraphs=false}
